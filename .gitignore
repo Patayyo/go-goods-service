@@ -1,0 +1,22 @@
+# Golang
+/bin/
+/build/
+/dist/
+*.exe
+*.test
+*.out
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Env
+.env
+.env.*
